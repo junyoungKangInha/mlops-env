@@ -22,3 +22,7 @@ git config --global user.name "name"
 git config --global user.email "email_addr"
 
 git config --global --list
+
+# reference
+
+https://hykethan.tistory.com/44
